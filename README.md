@@ -1,4 +1,4 @@
-# README
+# Discrete Signals labs
 
 ## Installation
 
